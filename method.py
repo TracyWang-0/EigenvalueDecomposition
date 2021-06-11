@@ -69,6 +69,7 @@ if __name__ == '__main__':
     C = getC()
     D = getD()
 
+    print(A)
 
 
 
